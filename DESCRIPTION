@@ -11,3 +11,5 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
 Imports: 
     arrow
+URL: https://github.com/diminutive/macparq
+BugReports: https://github.com/diminutive/macparq/issues
